@@ -1,9 +1,9 @@
 {
-  "appendMainRouter": {
-    "0": {
-      "routePath": "order-resources",
+  "appendMainRouter": [
+    {
+      "routePath": "orders-module",
       "componentName": "Orders",
       "componentPath": "src/components/Orders.js"
     }
+    ]
   }
-}
